@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=multi-display-indicator
+Path=/usr/local/share/multi-display-indicator/
+Terminal=false
+Type=Application
+Categories=Indicator
+GenericName=multi-display-indicator
+X-GNOME-Autostart-Phase=Panel
+X-KDE-autostart-phase=2
+NoDisplay=false
