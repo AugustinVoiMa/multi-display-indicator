@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# This code is simply inspired from askubuntu.com forums community 
+
+
+
+
+
 import subprocess
 import os
 import signal
