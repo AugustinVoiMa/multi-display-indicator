@@ -11,6 +11,7 @@ install:
 	chmod a+x $(SHARE_PATH)/run.py
 	ln -s -T $(SHARE_PATH)/run.py $(BIN_PATH)
 	cp multi-display-indicator.desktop /etc/xdg/autostart/
+	/usr/local/bin/multi-display-indicator
 
 uninstall:
 	-rm /etc/xdg/autostart/multi-display-indicator.desktop
